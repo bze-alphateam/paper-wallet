@@ -157,13 +157,13 @@ class Single extends Component {
                             <b>Check your balance</b> by entering your BZE address on one of these explorers :
                         </p>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://explorer.bzedge.org" target="_blank" rel="noopener noreferrer">https://explorer.bzedge.org</a></li>
+                            <li><a href="https://explorer.getbze.com" target="_blank" rel="noopener noreferrer">https://explorer.getbze.com</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://america.bzedge.org" target="_blank" rel="noopener noreferrer">https://america.bzedge.org</a></li>
+                            <li><a href="https://america.getbze.com" target="_blank" rel="noopener noreferrer">https://america.getbze.com</a></li>
                         </ul>
                         <p>
-                            <b>To spend your BZE</b> you can download the <a href='https://github.com/BZEdge/bzedge-wallet'>BZEdge Swing Wallet</a> and import your private key to the p2p client wallet.
+                            <b>To spend your BZE</b> you can download <a href='https://github.com/bze-alphateam/BZWallet'>BZWallet</a> and import your private key to the p2p client wallet.
                         </p>
                     </Col>
                 </Row>

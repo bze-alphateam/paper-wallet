@@ -15,7 +15,7 @@ export default class Header extends Component {
                 </Navbar.Header>
                 <Nav pullRight>
                     <NavItem href="https://github.com/BZEdge/paper-wallet" target="_blank" className="nav-item headerLeftOption">Source</NavItem>
-                    <NavItem href="https://explorer.bzedge.org/insight" target="_blank" className="nav-item headerLeftOption">Explorer</NavItem>
+                    <NavItem href="https://explorer.getbze.com/insight" target="_blank" className="nav-item headerLeftOption">Explorer</NavItem>
                 </Nav>
             </Navbar>
         );
